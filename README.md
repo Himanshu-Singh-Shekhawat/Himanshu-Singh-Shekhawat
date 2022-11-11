@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Himanshu-Singh-Shekhawat
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...  
+- 🌱 I’m currently learning Machine Learning, Python, Statistics..etc 
 - 📫 How to reach me Himanshusinghshekhawat8@gmail.com
 
 <!---
