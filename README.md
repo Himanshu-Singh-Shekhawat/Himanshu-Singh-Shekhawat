@@ -1,4 +1,4 @@
-**- 👋 Hi, I’m @Himanshu-Singh-Shekhawat**
+**- 👋 Hi, I’m Himanshu Singh Shekhawat**
 
 **Machine Learning Enthusiast | Python Developer .**
 
