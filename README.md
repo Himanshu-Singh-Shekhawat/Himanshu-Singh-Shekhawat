@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on - Data Science & Machine Learning.
 - 🌱 I’m currently learning - Deep learning, NLP, Python, Statistics..etc
 - 😄 Words that describe me - Self-motivated, Focused, Hardworking & Perfectionist.
-- 👀 I’m interested in ...
+<!-- - 👀 I’m interested in ... -->
 - 📫 How to reach me Himanshusinghshekhawat8@gmail.com
 
 <!---
