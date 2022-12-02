@@ -3,8 +3,9 @@
 **Machine Learning Enthusiast | Python Developer .**
 
 -To utilize my knowledge and ideas in this field of Data Science, machine learning and python development toward the smooth functioning of organization,I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Reach me on:
+-Reach me on:
 - 🔭 I’m currently working on - Data Science & Machine Learning.
 
 - 🌱 I’m currently learning - Deep learning, NLP, Python, Statistics..etc
