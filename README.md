@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @Himanshu-Singh-Shekhawat
+**- 👋 Hi, I’m @Himanshu-Singh-Shekhawat**
+
+**Machine Learning Enthusiast | Python Developer .**
+
+- 🔭 I’m currently working on - Data Science & Machine Learning.
+- 🌱 I’m currently learning - Deep learning, NLP, Python, Statistics..etc
+- 😄 Words that describe me - Self-motivated, Focused, Hardworking & Perfectionist.
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Machine Learning, Python, Statistics..etc 
 - 📫 How to reach me Himanshusinghshekhawat8@gmail.com
 
 <!---
