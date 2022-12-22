@@ -12,7 +12,11 @@
  
 - 😄 Words that describe me - Self-motivated, Focused, Hardworking & Perfectionist.
 
+- 💬 Ask me about ... anything
+
 - 📫 How to reach me Himanshusinghshekhawat8@gmail.com
+
+- ⚡ Fun fact: ... cheetah, leopard. i thought all this names are for same animal -->
 <!-- - 👀 I’m interested in ... -->
 <!---
 Himanshu-Singh-Shekhawat/Himanshu-Singh-Shekhawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
